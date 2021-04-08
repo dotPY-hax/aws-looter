@@ -1,9 +1,10 @@
+import argparse
 import json
 import os
 import random
 import string
 import subprocess
-import argparse
+
 
 
 class AWSEnum:
